@@ -25,11 +25,8 @@ Below are some snapshots of the application:
 - **Employee Form UI**:
 <img width="960" alt="Screenshot 2024-12-13 013933" src="https://github.com/user-attachments/assets/1a6bbe31-49de-420e-85ed-d4197d03dc87" />
 
-
-
 - **JsonPowerDB Database**:
 <img width="960" alt="Screenshot 2024-12-13 014055" src="https://github.com/user-attachments/assets/dcdda7da-0fa6-41f8-96fe-e73e8120abb6" />
-
 
 ---
 
