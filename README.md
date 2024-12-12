@@ -23,10 +23,10 @@ The **Employee Navigation Form Project** is a web application built using **HTML
 Below are some snapshots of the application:
 
 - **Employee Form UI**:
-<img width="960" alt="Screenshot 2024-12-13 013933" src="https://github.com/user-attachments/assets/1a6bbe31-49de-420e-85ed-d4197d03dc87" />
+<img width="960" alt="Screenshot 2024-12-13 013933" src="https://github.com/user-attachments/assets/6eec47c1-f5d3-4391-83de-7336a0f29e9a" />
 
 - **JsonPowerDB Database**:
-<img width="960" alt="Screenshot 2024-12-13 014055" src="https://github.com/user-attachments/assets/dcdda7da-0fa6-41f8-96fe-e73e8120abb6" />
+<img width="960" alt="Screenshot 2024-12-13 014055" src="https://github.com/user-attachments/assets/bc29e753-dc38-4c08-93ab-4cd6f64f4120" />
 
 ---
 
